@@ -96,7 +96,7 @@ Visualization: Graphs and charts for better understanding of data trends.
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/internship-project.git
+git clone (https://github.com/antonyjoseph0620/HyreAI.git)
 Open the project in Google Colab or Jupyter Notebook.
 
 Install dependencies:
